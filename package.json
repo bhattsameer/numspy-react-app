@@ -1,0 +1,25 @@
+{
+  "homepage": "http://bhattsameer.github.io/numspy-react-app",
+  "name": "numspy-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.0.0",
+    "bootstrap": "^3.3.7",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-inputs-validation": "^1.0.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
