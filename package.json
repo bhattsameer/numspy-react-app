@@ -1,8 +1,8 @@
 {
-  "homepage": "http://bhattsameer.github.io/numspy-react-app",
   "name": "numspy-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://bhattsameer.github.io/numspy-react-app",
   "dependencies": {
     "ajv": "^6.0.0",
     "bootstrap": "^3.3.7",
