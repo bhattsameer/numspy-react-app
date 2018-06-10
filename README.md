@@ -25,6 +25,8 @@ Find details of any mobile number in India.
 
 ![ScreenShot](https://github.com/bhattsameer/numspy-react-app/blob/master/ScreenShots/1.jpg)
 
+<b>Video :</b> https://www.youtube.com/watch?v=RwYtOgIgCDw
+
 # Also Visit
 
 NumSpy : https://bhattsameer.github.io/numspy </br>
@@ -41,3 +43,4 @@ NumSpy-Logo : [Hariom Panchal](https://github.com/Hariompanchal)
 Numspy-react-UI design : [Vishal Koshti](https://github.com/vkoshti)
 
 
+License: [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vkoshti/NumSpy/master/LICENSE)
