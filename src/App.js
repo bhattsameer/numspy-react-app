@@ -25,7 +25,7 @@ class App extends React.Component {
       this.setState({
         error: ""
       });
-      const api_call = await fetch(`http://numspy.pythonanywhere.com/LocateMobile/${number}`);
+      const api_call = await fetch(`https://numspy.pythonanywhere.com/LocateMobile/${number}`);
       const data = await api_call.json();
       console.log(data);
       this.setState({
