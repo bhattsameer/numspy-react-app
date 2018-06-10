@@ -14,6 +14,16 @@ React application Of NumSpy.
   type : 'npm start'
 ```
 
+# Requirement
+```
+ You will need to enable CORS in your Browser because this app is develop using numspy-api so send get request to Numspy.
+```
+so For Chrome there is extension available [Allow-Control-allow-origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) </br>
+download this extension and enable it.
+And In Mozilla firefox download extension [cors everywhere](https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/)
+
+TODO: please Help iF we can make this cors thing easier or remove this manual step.
+
 # Extra package used
 ```
 Bootstrap@3.3.7
